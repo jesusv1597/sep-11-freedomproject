@@ -9,8 +9,12 @@
 ### X/X/XX:
 * Text
 
-### X/X/XX:
-* Text
+### X/X/XX
+*
+
+### 11/3/24
+* [Kaboom.js](https://kaboomjs.com/play?example=add) (For my first learning log I tinkered with my tool by following Kaboom.js's website, I experimented with the "playground" section)
+
 
 
 <!-- 
