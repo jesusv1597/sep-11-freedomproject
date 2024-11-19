@@ -15,7 +15,6 @@ I also watched some videos on Kaboom.js, this was just to get a grasp of what ca
 
 I am going to be making a platformer game using Kaboom, and, I really want it to stand out, or atleast be different from other people's as, I know that a lot of other people are going to be using Kaboom.js so I want to have a project that is different and that has different features, even if it does make it harder. What I want to do for my project is to have a standard platformer game, 2d, and with foes, but I want to implement a sort of grappling feature that allows the player to grapple from one area to another, I want to make the player a monkey and I want to have the monkeys hands stretch far, allowing them to grab onto a surface and slowly be pulled there. I wanted the grappel thing to be sort of like a rope, this would mean that some sort of physics engine would have to be implemented to have the player swing from place to place, and I'm not really sure if an engine like that can be found within Kaboom. I would have to do a little more tinkering to figure that out.
 
-### EDP
 
 
 [Next](entry02.md)
