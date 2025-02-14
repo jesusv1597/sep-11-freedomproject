@@ -1,23 +1,27 @@
-# Plan
+# Plan 
 
-## Tool: 
-## Product: 
+## Tool: Kaboom
+## Product: Platformer
+ 
+--- 
+ 
+## Timeline 
+ 
+#### MVP 
+ 
+- [ ] Start Screen Creation (deadline: 03/01)
+  - [ ] Think of theme for game (deadline: 02/25)
+  - [ ] Create a draft on paper or online (deadline: 02/25)
+  - [ ] Create a start button (deadline: 02/25)
+  - [ ] Create a large name logo for the front (deadline: 02/25)
+  - [ ] Create a 
+ 
+#### Beyond MVP 
+ 
+- [ ] Task 
+  - [ ] Subtask 
 
----
-
-## Timeline
-
-#### MVP
-
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
-
-#### Beyond MVP
-
-- [ ] Task
-  - [ ] Subtask
-
-
+ 
 <!-- EXAMPLE
 
 ## Tool: APIs
